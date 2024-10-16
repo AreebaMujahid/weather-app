@@ -1,0 +1,73 @@
+[
+    {
+      "city": "Lahore",
+      "temperature": 28.5,
+      "humidity": 48,
+      "windspeed": 5.2,
+      "description": "clear sky"
+    },
+    {
+      "city": "Karachi",
+      "temperature": 30.2,
+      "humidity": 55,
+      "windspeed": 6.8,
+      "description": "partly cloudy"
+    },
+    {
+      "city": "Islamabad",
+      "temperature": 24.0,
+      "humidity": 42,
+      "windspeed": 3.5,
+      "description": "light rain"
+    },
+    {
+      "city": "New York",
+      "temperature": 18.5,
+      "humidity": 60,
+      "windspeed": 4.1,
+      "description": "sunny"
+    },
+    {
+      "city": "London",
+      "temperature": 15.0,
+      "humidity": 70,
+      "windspeed": 7.2,
+      "description": "overcast"
+    },
+    {
+      "city": "Tokyo",
+      "temperature": 22.3,
+      "humidity": 65,
+      "windspeed": 3.8,
+      "description": "light showers"
+    },
+    {
+      "city": "Sydney",
+      "temperature": 20.7,
+      "humidity": 55,
+      "windspeed": 4.5,
+      "description": "clear sky"
+    },
+    {
+      "city": "Dubai",
+      "temperature": 35.5,
+      "humidity": 20,
+      "windspeed": 5.9,
+      "description": "hot"
+    },
+    {
+      "city": "Toronto",
+      "temperature": 12.4,
+      "humidity": 75,
+      "windspeed": 2.8,
+      "description": "cloudy"
+    },
+    {
+      "city": "Moscow",
+      "temperature": 5.2,
+      "humidity": 80,
+      "windspeed": 9.0,
+      "description": "snow"
+    }
+  ]
+  
